@@ -9,6 +9,6 @@
   }
 }
 
-.slideOutRight {
+.slideOutRight.ng-leave {
   animation-name: slideOutRight;
 }

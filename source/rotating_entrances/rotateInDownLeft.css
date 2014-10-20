@@ -12,6 +12,6 @@
   }
 }
 
-.rotateInDownLeft {
+.rotateInDownLeft.ng-enter {
   animation-name: rotateInDownLeft;
 }

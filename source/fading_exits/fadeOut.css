@@ -3,6 +3,6 @@
   100% {opacity: 0;}
 }
 
-.fadeOut {
+.fadeOut.ng-leave {
   animation-name: fadeOut;
 }

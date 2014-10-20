@@ -13,6 +13,6 @@
   }
 }
 
-.zoomOutDown {
+.zoomOutDown.ng-leave {
   animation-name: zoomOutDown;
 }

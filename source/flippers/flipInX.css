@@ -24,7 +24,7 @@
   }
 }
 
-.flipInX {
+.flipInX.ng-enter {
   backface-visibility: visible !important;
   animation-name: flipInX;
 }

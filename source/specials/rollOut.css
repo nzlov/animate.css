@@ -11,6 +11,6 @@
   }
 }
 
-.rollOut {
+.rollOut.ng-leave {
   animation-name: rollOut;
 }

@@ -14,7 +14,7 @@
   }
 }
 
-.flipOutX {
+.flipOutX.ng-leave {
   animation-name: flipOutX;
   animation-duration: .75s;
   backface-visibility: visible !important;

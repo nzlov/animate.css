@@ -11,6 +11,6 @@
   }
 }
 
-.rotateOutUpLeft {
+.rotateOutUpLeft.ng-leave {
   animation-name: rotateOutUpLeft;
 }

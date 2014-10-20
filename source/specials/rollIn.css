@@ -12,6 +12,6 @@
   }
 }
 
-.rollIn {
+.rollIn.ng-enter {
   animation-name: rollIn;
 }

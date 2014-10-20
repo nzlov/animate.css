@@ -10,6 +10,6 @@
   }
 }
 
-.fadeInRightBig {
+.fadeInRightBig.ng-enter {
   animation-name: fadeInRightBig;
 }

@@ -10,6 +10,6 @@
   }
 }
 
-.fadeInLeftBig {
+.fadeInLeftBig.ng-enter {
   animation-name: fadeInLeftBig;
 }

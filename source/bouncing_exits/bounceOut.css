@@ -14,7 +14,7 @@
   }
 }
 
-.bounceOut {
+.bounceOut.ng-leave {
   animation-name: bounceOut;
   animation-duration: .75s;
 }

@@ -9,6 +9,6 @@
   }
 }
 
-.fadeOutRight {
+.fadeOutRight.ng-leave {
   animation-name: fadeOutRight;
 }

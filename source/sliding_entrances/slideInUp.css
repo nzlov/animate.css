@@ -9,6 +9,6 @@
   }
 }
 
-.slideInUp {
+.slideInUp.ng-enter {
   animation-name: slideInUp;
 }

@@ -20,7 +20,7 @@
   }
 }
 
-.lightSpeedIn {
+.lightSpeedIn.ng-enter {
   animation-name: lightSpeedIn;
   animation-timing-function: ease-out;
 }

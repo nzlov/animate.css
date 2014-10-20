@@ -11,6 +11,6 @@
   }
 }
 
-.zoomOutLeft {
+.zoomOutLeft.ng-leave {
   animation-name: zoomOutLeft;
 }

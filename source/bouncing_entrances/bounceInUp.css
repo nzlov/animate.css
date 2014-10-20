@@ -26,6 +26,6 @@
   }
 }
 
-.bounceInUp {
+.bounceInUp.ng-enter {
   animation-name: bounceInUp;
 }

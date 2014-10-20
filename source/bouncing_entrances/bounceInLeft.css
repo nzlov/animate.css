@@ -26,6 +26,6 @@
   }
 }
 
-.bounceInLeft {
+.bounceInLeft.ng-enter {
   animation-name: bounceInLeft;
 }

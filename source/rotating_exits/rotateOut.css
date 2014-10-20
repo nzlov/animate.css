@@ -11,6 +11,6 @@
   }
 }
 
-.rotateOut {
+.rotateOut.ng-leave {
   animation-name: rotateOut;
 }

@@ -9,7 +9,7 @@
   }
 }
 
-.lightSpeedOut {
+.lightSpeedOut.ng-leave {
   animation-name: lightSpeedOut;
   animation-timing-function: ease-in;
 }

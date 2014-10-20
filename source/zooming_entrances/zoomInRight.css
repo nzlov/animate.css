@@ -12,6 +12,6 @@
   }
 }
 
-.zoomInRight {
+.zoomInRight.ng-enter {
   animation-name: zoomInRight;
 }

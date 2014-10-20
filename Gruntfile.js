@@ -27,7 +27,7 @@ module.exports = function(grunt) {
     cssmin: {
       minify: {
         src: ['animate.css'],
-        dest: 'animate.min.css',
+        dest: 'animate.min.css'
       }
     },
 
@@ -47,6 +47,8 @@ module.exports = function(grunt) {
       category, files, file,
       target = [ 'source/_base.css' ],
       count = 0;
+
+    target.push('source/_ng.css');
 
     for ( category in categories ) {
       if ( categories.hasOwnProperty(category) ) {

@@ -12,6 +12,6 @@
   }
 }
 
-.rotateIn {
+.rotateIn.ng-enter {
   animation-name: rotateIn;
 }

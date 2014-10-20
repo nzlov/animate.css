@@ -9,6 +9,6 @@
   }
 }
 
-.fadeOutLeft {
+.fadeOutLeft.ng-leave {
   animation-name: fadeOutLeft;
 }

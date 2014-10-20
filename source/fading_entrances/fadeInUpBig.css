@@ -10,6 +10,6 @@
   }
 }
 
-.fadeInUpBig {
+.fadeInUpBig.ng-enter {
   animation-name: fadeInUpBig;
 }

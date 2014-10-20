@@ -31,7 +31,7 @@
   }
 }
 
-.bounceIn {
+.bounceIn.ng-enter {
   animation-name: bounceIn;
   animation-duration: .75s;
 }

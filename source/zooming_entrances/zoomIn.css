@@ -9,6 +9,6 @@
   }
 }
 
-.zoomIn {
+.zoomIn.ng-enter {
   animation-name: zoomIn;
 }

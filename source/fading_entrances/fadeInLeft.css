@@ -10,6 +10,6 @@
   }
 }
 
-.fadeInLeft {
+.fadeInLeft.ng-enter {
   animation-name: fadeInLeft;
 }

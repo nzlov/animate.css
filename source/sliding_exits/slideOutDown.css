@@ -9,6 +9,6 @@
   }
 }
 
-.slideOutDown {
+.slideOutDown.ng-leave {
   animation-name: slideOutDown;
 }

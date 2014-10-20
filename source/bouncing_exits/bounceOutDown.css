@@ -14,6 +14,6 @@
   }
 }
 
-.bounceOutDown {
+.bounceOutDown.ng-leave {
   animation-name: bounceOutDown;
 }

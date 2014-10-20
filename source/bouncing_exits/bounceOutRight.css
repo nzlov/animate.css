@@ -10,6 +10,6 @@
   }
 }
 
-.bounceOutRight {
+.bounceOutRight.ng-leave {
   animation-name: bounceOutRight;
 }
